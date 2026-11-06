@@ -111,11 +111,6 @@ npm start
 
 Open **http://localhost:3000** 🎉
 
-## ⚠️ Limitations
-
-- Accuracy depends on how up to date the scheme data is.
-- New users with incomplete profiles may get lower confidence scores.
-
 ## 🔮 Future Plans
 
 - 📄 OCR: upload documents to auto-fill your profile
